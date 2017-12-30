@@ -1,5 +1,6 @@
 # How to use?
 微信小游戏跳一跳抓包修改
+wechat small game “jump”
 ## 安装抓包工具
 
 Windows推荐安装fiddler，Macos推荐安装Charles
